@@ -1,0 +1,142 @@
+{
+    "conference_schedule": [
+        {
+            "date": "17 October 2024 (Thursday)",
+            "feature": "The Future",
+            "sessions": [
+                {
+                    "time": "09:00",
+                    "end_time": "09:45",
+                    "title": "Keynote",
+                    "description": "Transforming the Digital Economy: The Role of AI and Big Data",
+                    "involved_participants": {
+                        "speaker": "The Honourable Dato Sri Haji Julaihi Bin Haji Narawi"
+                    }
+                },
+                {
+                    "time": "09:45",
+                    "end_time": "10:30",
+                    "title": "Panel Discussion",
+                    "description": "The Impact of AI Across Industries",
+                    "involved_participants": {
+                        "moderator": "Tim Miller",
+                        "panelists": [
+                            "Richard Goh",
+                            "Ibrahim Sani",
+                            "AR Mohd",
+                            "Dato Haji Syeed Mohd Hussien bin Wan Abd Rahman"
+                        ]
+                    }
+                },
+                {
+                    "time": "10:30",
+                    "end_time": "11:00",
+                    "title": "The Economic and Social Power of Digital Inclusion",
+                    "involved_participants": {
+                        "speaker": "John Low Jaei Hong"
+                    }
+                },
+                {
+                    "time": "11:00",
+                    "end_time": "11:30",
+                    "title": "Harnessing Big Data and AI: Fundamentals of Implementation",
+                    "involved_participants": {
+                        "speaker": "Mohamustaqeem Mohammed"
+                    }
+                },
+                {
+                    "time": "11:30",
+                    "end_time": "12:00",
+                    "title": "Sustainable Development Through Green Infrastructure",
+                    "involved_participants": {
+                        "speaker": "The Honourable Datuk Haji Ismawi bin Haji Ismuni"
+                    }
+                },
+                {
+                    "time": "14:00",
+                    "end_time": "16:00", 
+                    "title": "Leaders Forum",
+                    "description": "Investment Outlook - What, Where & Why",
+                    "involved_participants": {
+                        "moderator": "YBhg. Dato' Ir. Ts. Sudarotno Bin Osman",
+                        "panelists": [
+                            "Mr Timothy Ong",
+                            "Prof. Jugdutt (Jack) Singh",
+                            "Datu Lester Matthew"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "date": "17 October 2024 (Thursday)",
+            "feature": "Startup Village",
+            "sessions": [
+                {
+                    "time": "09:00",
+                    "end_time": "10:00",
+                    "title": "Fireside Chat",
+                    "description": "Bots & Brushes: How AI is Shaking Up Malaysia's Animation & Gaming Scene!",
+                    "involved_participants": {
+                        "moderator": "Amirin Arsya",
+                        "panelists": [
+                            "Andrew Bong",
+                            "Irwan Junaidy",
+                            "Ryan Lee Chun Hoe"
+                        ]
+                    }
+                },
+                {
+                    "time": "10:00",
+                    "end_time": "11:00",
+                    "title": "Demo Day: Founder's Forge",
+                    "involved_participants": {
+                        "presenter": "FutureLab"
+                    }
+                },
+                {
+                    "time": "11:00",
+                    "end_time": "11:40",
+                    "title": "Demo Day: Capture the Flag - Cybersecurity Hackathon Demo",
+                    "involved_participants": {
+                        "moderator": "Nur Hartini Mardan",
+                        "panelists": [
+                            "Dr Sivaraman Eswaran"
+                        ]
+                    }
+                },
+                {
+                    "time": "11:40",
+                    "end_time": "12:30",
+                    "title": "Panel Discussion",
+                    "description": "Show Me the Money: Different Funds for Different Runs",
+                    "involved_participants": {
+                        "moderator": "Vivanita Sarjuni",
+                        "panelists": [
+                            "Stanley Siva",
+                            "Juliana Jan",
+                            "Xelia Tong"
+                        ]
+                    }
+                },
+                {
+                    "time": "12:30",
+                    "end_time": "13:00", 
+                    "title": "Prize Giving Ceremony (Founder's Forge and Capture the Flag) & MOU Exchange",
+                    "involved_participants": {
+                        "witness": "YB Dato Sri Roland Sagah",
+                        "exchange": "Sudarton Osman",
+                        "organizations": [
+                            "Vayapath Hanshen",
+                            "Venture Interactive",
+                            "Sarawak Influencers Council",
+                            "Leave a Nest",
+                            "Dynamik Technologies",
+                            "Dropee"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
